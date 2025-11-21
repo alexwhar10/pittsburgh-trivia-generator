@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/alexwhar10/pittsburgh-trivia-generator)
+![GitHub last commit](https://img.shields.io/github/last-commit/alexwhar10/pittsburgh-trivia-generator)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python version](https://img.shields.io/badge/python-3.x-blue)
 
 # 🏒🏈 Pittsburgh Sports Trivia of the Day
 
@@ -21,7 +25,4 @@ sports_trivia/
 ```bash
 python main.py
 
-![GitHub repo size](https://img.shields.io/github/repo-size/alexwhar10/pittsburgh-trivia-generator)
-![GitHub last commit](https://img.shields.io/github/last-commit/alexwhar10/pittsburgh-trivia-generator)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python version](https://img.shields.io/badge/python-3.x-blue)
+
