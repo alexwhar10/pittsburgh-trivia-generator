@@ -11,12 +11,17 @@ A simple Python script that displays a random trivia fact about the **Pittsburgh
 
 ## 📂 Project Structure
 sports_trivia/
-│── main.py
-│── LICENSE
-│── README.md
 │── .gitignore
+│── license
+│── README.md
+│── trivia.py
 
 
 ## ▶️ How to Run
 ```bash
 python main.py
+
+![GitHub repo size](https://img.shields.io/github/repo-size/alexwhar10/pittsburgh-trivia-generator)
+![GitHub last commit](https://img.shields.io/github/last-commit/alexwhar10/pittsburgh-trivia-generator)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python version](https://img.shields.io/badge/python-3.x-blue)
