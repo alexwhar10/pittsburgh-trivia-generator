@@ -23,6 +23,6 @@ sports_trivia/
 
 ## ▶️ How to Run
 ```bash
-python main.py
+python trivia.py
 
 
